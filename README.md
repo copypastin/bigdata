@@ -14,6 +14,14 @@ The average time the player is online is roughly between 0:00 - 6:00 and 14:00 -
 ![image](https://github.com/user-attachments/assets/5328ae3e-648e-44e9-aa7e-20ddf02176c3)
 (average plot)
 
+### References
+- [Pandas](https://pandas.pydata.org/)
+- [Matplotlib](https://matplotlib.org/)
+- [Seaborn](https://seaborn.pydata.org/)
+- [MappingTool](https://github.com/copypastin/MappingTool)
+
+### Acknowledgements
+We would like to thank the Minecraft server for allowing us to collect data from their server.
 
 ## Criteria
 ● **Question:** What do we want to know? What is trying to be solved?
