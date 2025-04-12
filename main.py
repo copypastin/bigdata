@@ -25,3 +25,5 @@ def average_plot():
     sns.histplot(data=df, x="time", bins=24, kde=True)
     plt.show()
 
+
+average_plot()
